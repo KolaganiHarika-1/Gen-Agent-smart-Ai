@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "id": "task-1001",
+      "title": "Review weekly sales report",
+      "description": "Summarize performance and identify key changes.",
+      "priority": "High",
+      "status": "Pending",
+      "category": "Work",
+      "createdAt": "2026-11-25T09:00:00.000Z",
+      "updatedAt": "2026-11-25T09:00:00.000Z"
+    },
+    {
+      "id": "task-1002",
+      "title": "Prepare project presentation",
+      "description": "Create slides for the project review meeting.",
+      "priority": "Medium",
+      "status": "In Progress",
+      "category": "Project",
+      "createdAt": "2026-11-25T10:00:00.000Z",
+      "updatedAt": "2026-11-25T10:00:00.000Z"
+    },
+    {
+      "id": "task-1003",
+      "title": "Organize team follow-ups",
+      "description": "List pending discussions and next actions.",
+      "priority": "Low",
+      "status": "Completed",
+      "category": "Team",
+      "createdAt": "2026-11-24T08:00:00.000Z",
+      "updatedAt": "2026-11-25T12:00:00.000Z"
+    }
+  ],
+  "decisions": [],
+  "logs": []
+}

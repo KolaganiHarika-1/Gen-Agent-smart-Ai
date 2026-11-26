@@ -1,0 +1,12 @@
+GENAGENT - QUICK START
+
+1. Open this folder in VS Code (the folder containing package.json).
+2. Open Terminal and run: npm install
+3. Terminal 1: npm run server
+   Backend URL: http://localhost:5000
+4. Terminal 2: npm run dev
+   Frontend URL: http://localhost:5173
+5. Keep both terminals open.
+
+If port 5000 or 5173 is already in use, stop the other app or change the port.
+The decision assistant is a local rule-based demo, not a hosted generative AI model.
